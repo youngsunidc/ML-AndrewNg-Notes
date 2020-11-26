@@ -94,7 +94,7 @@
    - 新闻聚合
    - DNA 个体聚类
    - 天文数据分析
-   - 市场细分
+   - 市场细分   link:https://medium.com/datadriveninvestor/a-machine-learning-approach-to-strategic-market-research-and-segmentation-6e9fb5cf7d4
    - 社交网络分析
 2. 非聚类(Non-clustering)
    - 鸡尾酒问题
